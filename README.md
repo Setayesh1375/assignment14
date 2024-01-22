@@ -20,8 +20,8 @@ Also if you hit an invader, your spaceship will explodes and it's game over.
 
 ### ScreenShots of the Game
 
-![Screen Shot](1.png)
+![Screen Shot](IMG_20240122_202010_150.jpg)
 
-![Screen Shot](2.png)
+![Screen Shot](IMG_20240122_202009_721.jpg)
 
-![Screen Shot](3.png)
+![Screen Shot](IMG_20240122_202009_650.jpg)
